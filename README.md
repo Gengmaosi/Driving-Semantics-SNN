@@ -8,4 +8,4 @@ The driving semantics spiking neural network was constructed based on the open-s
 
 
 # License
-This repo is released under the MIT License. The driving semantics SNN framework is bulit on top of spikingjelly and pytorch.
+This repo is released under the MIT License. The driving semantics SNN framework is bulit on top of [spikingjelly](https://github.com/fangwei123456/spikingjelly) and pytorch.
